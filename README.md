@@ -17,7 +17,7 @@ If you want to use this project, either because you are interested in the applic
 2. Download JavaFX and import all the .jar files in the Build Path as External jars.
 3. Add the following text to VM options:
 
-``sh
+``
 --module-path /path/to/javafx-sdk-15.0.1/lib --add-modules javafx.controls,javafx.fxml
 ``
 
