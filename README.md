@@ -13,12 +13,24 @@ This project was born as a tool that aided Sevilla Racing engineers throghout th
 ## How to use this project?
 If you want to use this project, either because you are interested in the application itself or as a developer, the only requirement is to have JavaFX seted up in your PC.
 
+1. Clone the repository on your PC.
+2. Download JavaFX and import all the .jar files in the Build Path as External jars.
+3. Add the following text to VM options:
+
+``sh
+--module-path /path/to/javafx-sdk-15.0.1/lib --add-modules javafx.controls,javafx.fxml
+``
+
+4. Open the file Main.java and compile it.   
+
 ## Known issues
-This program was created for the Bachelor Thesis of a Degree in Mechanical Engineering. Rhe scope was limited to developing a functional prototipe and testing whether it was adequate to use Genetic Algorithms in this context. For that reason, there is a lot of room for improvement - in one way to improve the lack of reliavility, but also to add new features that had been ignored due to deadlines. Nevertheless, the concept was proved to be realy interesting and to have a lot of potential. That's why I encourage engineers interested in the subject (may be students currently working for the Motostudent competition) to contribute to this project.
+This program was created for the Bachelor Thesis of a Degree in Mechanical Engineering. The scope was limited to developing a functional prototipe and testing whether it was adequate to use Genetic Algorithms in this context. For that reason, there is a lot of room for improvement - in one way to improve the lack of reliavility, but also to add new features that had been ignored due to deadlines. 
+
+Nevertheless, the concept was proved to be realy interesting and to have a lot of potential. That's why I encourage engineers interested in the subject (may be students currently working for the Motostudent competition) to contribute to this project.
 
 Here is a list of known issues and potential added features for you to work on:
 
 * 
  
  ## License
- This project is [MIT Licensed](LICENSE)
+ This project is [MIT Licensed](LICENSE).
