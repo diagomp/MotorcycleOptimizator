@@ -1,0 +1,133 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+* {
+	
+	-fx-primary: rgb(0, 74, 124);
+	-fx-secondary: transparent;
+	-fx-darktext: #000000;
+	-fx-lightext: #ffffff;	
+}
+
+.root {
+	-fx-background-color: transparent;
+	-fx-focus-color: transparent;
+	-fx-faint-focus-color: transparent;
+	
+}
+
+.menu-bar {
+	-fx-background-color: white;
+	-fx-color: white;
+	-fx-border-color: transparent;
+}
+
+.split-pane-divider {
+	-fx-background-color: transparent;
+	-fx-padding: 1px;
+}
+
+.scroll-pane {
+	-fx-background-color: transparent;
+}
+
+/*Scroll bars*/
+
+.scroll-bar {
+	-fx-background-color: transparent;
+}
+
+.scroll-bar .track-background {
+	-fx-fill: transparent;
+	/*visibility: hidden;*/
+	/*-fx-opacity: 0;*/
+}
+
+.scroll-bar .track {
+	-fx-fill: transparent;
+	/*visibility: hidden;*/
+	/*-fx-opacity: 0;*/
+}
+
+.corner {
+	-fx-background-color: transparent;
+}
+
+
+
+.scroll-bar .increment-button, .scroll-bar .decrement-button, .scroll-bar .increment-arrow, .scroll-bar .decrement-arrow{
+	visibility: hidden;
+	/*-fx-opacity: 0;*/
+}
+
+.scroll-bar .thumb {
+	/*-fx-background-color: transparent;*/
+	-fx-opacity: 0.15; 
+	-fx-background-color: black;
+	-fx-background-radius: 50px;
+}
+
+/*TABPANE for Plots and Graphics*/
+.tab-header-background {
+	-fx-background-color: white;
+}
+
+.tab-label {
+	-fx-font-size: 14;
+	
+}
+
+.tab {
+	-fx-background-color: white;
+	-fx-border-color: transparent;
+	-fx-border-width: 0.0 0.0 6 0.0;
+	-fx-padding: 0.0 10 0 10;
+
+}
+
+.tab:hover, .tab:selected {
+	-fx-border-color: transparent transparent -fx-primary transparent;
+}
+
+.tab-content-area {
+	-fx-background-color: white;
+}
+
+/*ACCORDIONPANE for changing parameters values */
+.title {
+	-fx-background-color: -fx-secondary;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+}
+
+.content {
+	-fx-background-color: transparent;
+	-fx-border-color: transparent;
+}
+
+
+.text-field {
+	-fx-background-color: transparent;
+	-fx-border-color: transparent;
+	
+}
+
+.text-field:focused {
+	-fx-background-color: white;
+}
+
+.default-color0.chart-series-line { -fx-stroke: -fx-primary; }
+.default-color0.chart-line-symbol { -fx-background-color: transparent, -fx-primary; }
+.default-color0.chart-bar { 
+	-fx-bar-fill: #cbcbcb;
+	-fx-background-color: #cbcbcb; 
+}
+
+.chart-legend {
+	-fx-background-color: transparent;
+}
+.desplegable {
+	-fx-background-color: transparent;
+	
+}
+
+
+
