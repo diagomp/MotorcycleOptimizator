@@ -11,7 +11,7 @@ This project was born as a tool that aided Sevilla Racing engineers throghout th
 
 
 ## How to use this project?
-If you want to use this project, either because you are interested in the application itself or as a developer, the only requirement is to have JavaFX seted up in your PC.
+If you want to use this project, either because you are interested in the application itself or as a developer, the only requirement is to have JavaFX setted up in your PC.
 
 1. Clone the repository on your PC.
 2. Download JavaFX and import all the .jar files in the Build Path as External jars.
@@ -30,7 +30,7 @@ Nevertheless, the concept was proved to be realy interesting and to have a lot o
 
 Here is a list of known issues and potential added features for you to work on:
 
-* 
+*[] 
  
  ## License
  This project is [MIT Licensed](LICENSE).
