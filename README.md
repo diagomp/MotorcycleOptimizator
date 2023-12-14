@@ -24,7 +24,7 @@ If you want to use this project, either because you are interested in the applic
 4. Open the file Main.java and compile it.   
 
 ## Known issues
-This program was created for the Bachelor Thesis of a Degree in Mechanical Engineering. The scope was limited to developing a functional prototipe and testing whether it was adequate to use Genetic Algorithms in this context. For that reason, there is a lot of room for improvement - in one way to improve the lack of reliavility, but also to add new features that had been ignored due to deadlines. 
+This program was created for the Bachelor Thesis of a Degree in Mechanical Engineering (you can find it [here](https://idus.us.es/handle/11441/136702)). The scope was limited to developing a functional prototipe and testing whether it was adequate to use Genetic Algorithms in this context. For that reason, there is a lot of room for improvement - in one way to improve the lack of reliavility, but also to add new features that had been ignored due to deadlines. 
 
 Nevertheless, the concept was proved to be realy interesting and to have a lot of potential. That's why I encourage engineers interested in the subject (may be students currently working for the Motostudent competition) to contribute to this project.
 
