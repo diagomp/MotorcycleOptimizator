@@ -30,7 +30,7 @@ Nevertheless, the concept was proved to be realy interesting and to have a lot o
 
 Here is a list of known issues and potential added features for you to work on:
 
--[] 
+-[ ] 
  
  ## License
  This project is [MIT Licensed](LICENSE).
