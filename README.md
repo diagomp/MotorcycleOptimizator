@@ -30,7 +30,8 @@ Nevertheless, the concept was proved to be realy interesting and to have a lot o
 
 Here is a list of known issues and potential added features for you to work on:
 
--[ ] 
+- [ ] A rare set of suspension system parameters leads to unconsistent behaviour. It would be useful to detect those non-sense cases and avoid calculating behaviour graphs.
+- [ ] It would be useful to let the program save the data of different suspension system as an external file, and allow the user to open them anytime.
  
  ## License
  This project is [MIT Licensed](LICENSE).
